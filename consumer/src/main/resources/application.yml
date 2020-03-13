@@ -1,0 +1,4 @@
+dubbo:
+  application:
+    name: dubbo-consumer
+    registry: zookeeper://localhost:2181
